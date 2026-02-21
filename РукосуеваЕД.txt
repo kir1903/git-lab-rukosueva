@@ -1,0 +1,37 @@
+commit b50e6ae8d61982e154a579508959d1cc70e21591
+Author: kir1903 <rukosuevakatya@gmail.com>
+Date:   Sat Feb 21 16:08:30 2026 +0700
+
+    Добавлен test.txt в ветке TEST
+
+commit bd84a5082fe16fcbc71658c2cc82035d3f9e397b
+Author: kir1903 <rukosuevakatya@gmail.com>
+Date:   Sat Feb 21 16:06:26 2026 +0700
+
+    Добавлен .gitignore для временных файлов
+
+commit b7040ccfec4a6c82a554078d4bf2ead207e560fd
+Author: kir1903 <rukosuevakatya@gmail.com>
+Date:   Sat Feb 21 15:56:24 2026 +0700
+
+    Revert "Добавлена платформа для видеоконференций"
+    
+    This reverts commit 2f87f3d146eceb9ab87c3dda33d939400b5a5bf8.
+
+commit 2f87f3d146eceb9ab87c3dda33d939400b5a5bf8
+Author: kir1903 <rukosuevakatya@gmail.com>
+Date:   Sat Feb 21 15:41:51 2026 +0700
+
+    Добавлена платформа для видеоконференций
+
+commit 2441530dd4a96f711e012647d3336af9702817e7
+Author: kir1903 <rukosuevakatya@gmail.com>
+Date:   Sat Feb 21 15:36:28 2026 +0700
+
+    Добавлена оценка текущего статуса
+
+commit 381890bc64d17128def9c8431bc745c4415ed0d5
+Author: kir1903 <rukosuevakatya@gmail.com>
+Date:   Sat Feb 21 15:33:57 2026 +0700
+
+    Добавлен базовый readme с ФИО и группой
